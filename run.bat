@@ -1,0 +1,1 @@
+start D:\App\xampp\xampp-control.exe & php artisan serve
